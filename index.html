@@ -117,7 +117,7 @@
         // Load channels from JSON file
         async function loadChannels() {
             try {
-                const response = await fetch("https://raw.githubusercontent.com/mikuy517/new/refs/heads/main/channels.json?token=GHSAT0AAAAAADAUBN2Q4H4TW6MP6ZVERO2YZ63OXKQ"); // Load the new channels JSON
+                const response = await fetch('https://raw.githubusercontent.com/mikuy517/new/refs/heads/main/channels.json?token=GHSAT0AAAAAADAUBN2Q4H4TW6MP6ZVERO2YZ63OXKQ'); // Load the new channels JSON
                 channels = await response.json();
 
                 displayChannels(channels);
