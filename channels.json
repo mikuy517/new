@@ -11,11 +11,18 @@
         "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
     {
-        "id": "vivacinema2",
-        "name": "VIVA CINEMA (CIG)",
+        "id": "vivacinema",
+        "name": "VIVA CINEMA",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7D4Lh-CpJgVSAGzTXWtCKxcUvCIiOVsJg&s",
         "stream": "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd",
 	"clearkey": "07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb",
         "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
-    }
+    },
+   {
+        "id": "a2z",
+        "name": "A2Z",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png",
+        "stream": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd",
+	"clearkey": "f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530",
+        "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
 ]
