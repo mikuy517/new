@@ -22,6 +22,13 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png",
         "stream": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd",
 	"clearkey": "f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530"
+  },
+ {
+        "id": "abcaus",
+        "name": "ABC AUSTRALIA",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/ABC_Australia_logo.svg",
+        "stream": "https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd",
+	"clearkey": "389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0"
   }
 
 ]
