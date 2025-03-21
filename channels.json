@@ -28,6 +28,7 @@
         "name": "ABC AUSTRALIA",
         "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/ABC_Australia_logo.svg",
         "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd"
+	 "clearkey": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
 	"adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
   }
 
