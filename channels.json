@@ -5,7 +5,6 @@
         "id": "kapcha",
         "name": "KAPAMILYA (TFC)",
         "logo": "https://i.imgur.com/54f9r5A.png",
-        "group": "\ud83c\uddf5\ud83c\udded TFC CHANNELS",
         "stream": "https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd",
         "clearkey": "bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5"
     },
@@ -27,7 +26,7 @@
     "id": "a2z",
         "name": "A2Z",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png",
-        "stream": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd",
+        "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd",
 	"clearkey": "6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d"     
   }
 
