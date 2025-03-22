@@ -219,7 +219,7 @@
         "stream": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd",
         "clearkey": "0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
-    }
+    },
          {
         "id": "discovery",
         "name": "DISCOVERY CHANNEL",
