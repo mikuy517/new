@@ -121,7 +121,7 @@
         "name": "CARTOON NETWORK",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",
         "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd",
-        "clearkey": "a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444",
+        "clearkey": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
 ]
