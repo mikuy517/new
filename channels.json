@@ -1,6 +1,4 @@
 [
-    
-    
     {
         "id": "kapcha",
         "name": "KAPAMILYA (TFC)",
@@ -13,54 +11,53 @@
         "name": "VIVA CINEMA",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7D4Lh-CpJgVSAGzTXWtCKxcUvCIiOVsJg&s",
         "stream": "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd",
-	"clearkey": "07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb"
+        "clearkey": "07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb"
     },
-   {
+    {
         "id": "a2z",
         "name": "A2Z",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png",
         "stream": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd",
-	"clearkey": "f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530"
-  },
- {
-    "id": "abcaustralia",
+        "clearkey": "f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530"
+    },
+    {
+        "id": "abcaustralia",
         "name": "ABC AUSTRALIA",
         "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/ABC_Australia_logo.svg",
-        "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd", 
-	 "clearkey": "6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d",
-	 "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
-  },
-	 {
-    "id": "arirang",
+        "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd",
+        "clearkey": "6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+    {
+        "id": "arirang",
         "name": "ARIRANG",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png",
-        "stream": "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd", 
-	 "clearkey": "13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824",
-	 "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
-  }
-         {
-    "id": "aljazeera",
+        "stream": "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd",
+        "clearkey": "13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+    {
+        "id": "aljazeera",
         "name": "ALJAZEERA",
         "logo": "https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png",
-        "stream": "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_aljazeera.mpd", 
-	 "clearkey": "7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2",
-	 "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
-  },
-	 {
-    "id": "afn",
+        "stream": "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_aljazeera.mpd",
+        "clearkey": "7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+    {
+        "id": "afn",
         "name": "AFN",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",
-        "stream": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd", 
-	 "clearkey": "1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4",
-	 "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
-  },
-	 {
-    "id": "anc",
+        "stream": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd",
+        "clearkey": "1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+    {
+        "id": "anc",
         "name": "ANC",
         "logo": "https://static.wikia.nocookie.net/abscbn/images/a/a6/ANC_%282015%29.svg/revision/latest?cb=20231220020233",
-        "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd", 
-	 "clearkey": "4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae",
-	 "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
-  }
-
+        "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd",
+        "clearkey": "4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    }
 ]
