@@ -6,14 +6,6 @@
         "stream": "https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd",
         "clearkey": "bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5"
     },
-          {
-        "id": "alltv",
-        "name": "ALLTV",
-        "logo": "https://static.wikia.nocookie.net/tvradioschedules/images/6/63/ALLTV_Logo_2023.png/revision/latest/scale-to-width-down/2560?cb=20240817152935",
-        "stream": "https://143.44.136.113:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com",
-        "clearkey": "31363233323238353336303333363036:367662564c69425947353948374f4553",
-        "adaptive_key": "https://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
-    },
     {
         "id": "vivacinema",
         "name": "VIVA CINEMA",
