@@ -147,5 +147,13 @@
         "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd",
         "clearkey": "a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+                 {
+        "id": "cmovies",
+        "name": "CELESTIAL MOVIES",
+        "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Celestial_Movies_%282003-.n.v.%29.png/revision/latest?cb=20210214084108",
+        "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd",
+        "clearkey": "c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
 ]
