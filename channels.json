@@ -220,4 +220,12 @@
         "clearkey": "0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
+         {
+        "id": "discovery",
+        "name": "DISCOVERY CHANNEL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnkPojyDd9zWpzUrzItP9mEg1l0uDX6Cru3kOoh3GmjwhBR7uLCZ76YqH6bkghgWcIOeI&usqp=CAU",
+        "stream": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd",
+        "clearkey": "d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    }
 ]
