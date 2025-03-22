@@ -185,7 +185,7 @@
         "name": "CNA",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png",
         "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd",
-        "clearkey": "f812aeae6be5b924a8181b512d5d7910",
+        "clearkey": "f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
 ]
