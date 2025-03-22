@@ -203,5 +203,13 @@
         "stream": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd",
         "clearkey": "1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+           {
+        "id": "crimeinvest",
+        "name": "CRIME INVESTIGATION",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",
+        "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd",
+        "clearkey": "22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
 ]
