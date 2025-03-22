@@ -188,4 +188,13 @@
         "clearkey": "f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
+      },
+                                {
+        "id": "cnn",
+        "name": "CNN",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1200px-CNN_Logo_%282014%29.svg.png",
+        "stream": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd",
+        "clearkey": "1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    }
 ]
