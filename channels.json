@@ -83,5 +83,21 @@
         "stream": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd",
         "clearkey": "34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+          {
+        "id": "bbcnews",
+        "name": "BBC NEWS",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png",
+        "stream": "https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news_sd.mpd",
+        "clearkey": "f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+         {
+        "id": "bilyonaryo",
+        "name": "BILYONARYO CHANNEL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLAwSNBTidBrWh7EnNMilSk3yIZZR1B80SFg&s",
+        "stream": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd",
+        "clearkey": "227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
 ]
