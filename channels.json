@@ -59,5 +59,29 @@
         "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd",
         "clearkey": "4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
-    }
+    },
+     {
+        "id": "animax",
+        "name": "ANIMAX",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",
+        "stream": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd",
+        "clearkey": "92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+     {
+        "id": "axn",
+        "name": "AXN",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s",
+        "stream": "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd",
+        "clearkey": "fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+         {
+        "id": "bbcearth",
+        "name": "BBC EARTH",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s",
+        "stream": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd",
+        "clearkey": "34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
 ]
