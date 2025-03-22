@@ -211,5 +211,13 @@
         "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd",
         "clearkey": "22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+         {
+        "id": "deped",
+        "name": "DEPED CHANNEL",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Depedtvlogo.png",
+        "stream": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd",
+        "clearkey": "0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
 ]
