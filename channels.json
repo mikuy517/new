@@ -12,7 +12,7 @@
         "logo": "https://static.wikia.nocookie.net/tvradioschedules/images/6/63/ALLTV_Logo_2023.png/revision/latest/scale-to-width-down/2560?cb=20240817152935",
         "stream": "http://143.44.136.113:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com",
         "clearkey": "31363233323238353336303333363036:367662564c69425947353948374f4553",
-        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+        "adaptive_key": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
     {
         "id": "vivacinema",
