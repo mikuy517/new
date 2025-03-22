@@ -164,7 +164,7 @@
         "clearkey": "efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     },
-                        {
+            {
         "id": "cinemA1g",
         "name": "CINEMAONE GLOBAL",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png",
@@ -172,7 +172,7 @@
         "clearkey": "58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     },
-                            {
+             {
         "id": "cinemog",
         "name": "CINEMO GLOBAL",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_meK7UN4PcTxZsR2xf_7bX1KyrNp3JyRxMY6Ki5dSlz4g=s900-c-k-c0x00ffffff-no-rj",
@@ -180,21 +180,28 @@
         "clearkey": "aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     },
-                                {
+             {
         "id": "cna",
         "name": "CNA",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png",
         "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd",
         "clearkey": "f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
-    }
       },
-                                {
+            {
         "id": "cnn",
         "name": "CNN",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1200px-CNN_Logo_%282014%29.svg.png",
         "stream": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd",
         "clearkey": "1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    }
+            {
+        "id": "rptv",
+        "name": "RPTV",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5b/RPTV_%282024%29.svg",
+        "stream": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd",
+        "clearkey": "1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
 ]
