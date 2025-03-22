@@ -238,11 +238,19 @@
     },
     
     {
-        "id": "disney",
-        "name": "DISNEY CHANNEL",
-        "logo": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9D6886642F2FE58FFDD900775BDDFF0AF29BB4B3D294F2085E1174D57BE26B1A/scale?width=600&aspectRatio=1.78&format=webp",
-        "stream": "https://fl5.moveonjoy.com/DISNEY_CHANNEL/tracks-v1a1/mono.m3u8",
-        "clearkey": "3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553",
+        "id": "dreamworks",
+        "name": "DREAMWORKS",
+        "logo": "https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png",
+        "stream": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd",
+        "clearkey": "4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+    {
+        "id": "dreamworkstag",
+        "name": "DREAMWORKS TAGALOG",
+        "logo": "https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png",
+        "stream": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd",
+        "clearkey": "564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
 ]
