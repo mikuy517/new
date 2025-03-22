@@ -195,7 +195,7 @@
         "stream": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd",
         "clearkey": "1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
-    }
+    },
             {
         "id": "rptv",
         "name": "RPTV",
