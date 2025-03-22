@@ -140,4 +140,12 @@
         "clearkey": "db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
+               {
+        "id": "ccm",
+        "name": "CLASSIC CELESTIAL MOVIES",
+        "logo": "https://mncvision.tv/userfiles/image/channel/channel_22.png",
+        "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd",
+        "clearkey": "a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    }
 ]
