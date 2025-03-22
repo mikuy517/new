@@ -139,7 +139,7 @@
         "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd",
         "clearkey": "db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
-    }
+    }'
                {
         "id": "ccm",
         "name": "CLASSIC CELESTIAL MOVIES",
