@@ -236,4 +236,13 @@
         "clearkey": "3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
+    
+    {,
+        "id": "disney",
+        "name": "DISNEY CHANNEL",
+        "logo": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9D6886642F2FE58FFDD900775BDDFF0AF29BB4B3D294F2085E1174D57BE26B1A/scale?width=600&aspectRatio=1.78&format=webp",
+        "stream": "https://fl5.moveonjoy.com/DISNEY_CHANNEL/tracks-v1a1/mono.m3u8",
+        "clearkey": "3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    }
 ]
