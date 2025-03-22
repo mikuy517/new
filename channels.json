@@ -99,5 +99,29 @@
         "stream": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd",
         "clearkey": "227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+         {
+        "id": "buko",
+        "name": "BUKO CHANNEL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg",
+        "stream": "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd",
+        "clearkey": "d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+           {
+        "id": "buko",
+        "name": "BUKO CHANNEL",
+        "logo": "https://mma.prnewswire.com/media/649927/Bloomberg_Black_Logo.jpg?p=twitter",
+        "stream": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd",
+        "clearkey": "ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+               {
+        "id": "cartnet",
+        "name": "CARTOON NETWORK",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",
+        "stream": "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd",
+        "clearkey": "a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
 ]
