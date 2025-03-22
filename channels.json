@@ -155,5 +155,37 @@
         "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd",
         "clearkey": "c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c",
         "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+                    {
+        "id": "cinemax",
+        "name": "CINEMAX",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+        "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd",
+        "clearkey": "efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+                        {
+        "id": "cinemA1g",
+        "name": "CINEMAONE GLOBAL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png",
+        "stream": "https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd",
+        "clearkey": "58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+                            {
+        "id": "cinemog",
+        "name": "CINEMO GLOBAL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png",
+        "stream": "https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd",
+        "clearkey": "aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
+    },
+                                {
+        "id": "cna",
+        "name": "CNA",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png",
+        "stream": "https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd",
+        "clearkey": "f812aeae6be5b924a8181b512d5d7910",
+        "adaptive_key": "https://ck-server.danng.me/?username=Miepalong7&channelid=5075/"
     }
 ]
